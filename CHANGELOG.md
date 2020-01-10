@@ -1,4 +1,8 @@
 # Changelog
+## :pizza: v0.4.1
+  - ### :detective: Fixes
+    - fix README.md mentioning the wrong version number
+
 ## :pizza: v0.4.0
   - ### :bulb: Features
     - New function to ``toggle`` an ``Output`` ``Pin`` between high and low.
